@@ -20,8 +20,8 @@
 -->
 
 <!-- MasterHead -->
-<a href="https://github.com/aditya-inorder/symmetrical-summary/blob/main/Greyscenery.png">
-  <img width="1000" height="500" src="https://github.com/aditya-inorder/symmetrical-summary/blob/main/Adventuretime.gif" alt="Fallout GIF"/>
+<a href="https://github.com/aditya-inorder/symmetrical-summary/blob/main/Adventuretime.gif">
+  <img width="1000" height="500" src="https://github.com/aditya-inorder/symmetrical-summary/blob/main/Greyscenery.png" alt="Fallout GIF"/>
 </a>
 
 <!-- Greeting -->
