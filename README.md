@@ -38,6 +38,8 @@
   ⚡ Passionate about AI, automation, and cybersecurity.<br>
 </p>
 
+<br>
+
 <h3>🧲 Drop me a line:</h3>
 <div align="center">
   <a href="mailto:thadijoshua@gmail.com"><img width="55px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/gmail_new_logo.png" alt="Gmail" /></a>
