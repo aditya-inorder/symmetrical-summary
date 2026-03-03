@@ -33,12 +33,11 @@
 <!-- About Me -->
 <h3 align="left">💫 About Me</h3>
 <p>
-  🌱 Currently sharpening my skills in defensive security.<br>
-  💬 Proficient in Python and SQL for automation<br>
-  ⚡ Passionate about AI, automation, and cybersecurity.<br>
+  🌱 I am currently working to improve net.<br>
+  🔭 I worked on .NET Framework and have experience in ASP.NET MVC.<br>
+  💬 I am skilled in Python and SQL.<br>
+  ⚡ Interest in DS/AI/ML, Automation, Development/Engineering, etc.<br>
 </p>
-
-<br>
 
 <h3>🧲 Drop me a line:</h3>
 <div align="center">
