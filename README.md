@@ -33,10 +33,9 @@
 <!-- About Me -->
 <h3 align="left">💫 About Me</h3>
 <p>
-  🌱 I am currently working on and developing my programming skills.<br>
-  🔭 I worked on .NET Framework and have experience in ASP.NET MVC.<br>
-  💬 Skills I acquire in programming languages such as Python, SQL.<br>
-  ⚡ Interest in DS/AI/ML, Automation, Development/Engineering, etc.<br>
+  🌱 Currently sharpening my skills in defensive security.<br>
+  💬 Proficient in Python and SQL for automation<br>
+  ⚡ Passionate about AI, automation, and cybersecurity.<br>
 </p>
 
 <h3>🧲 Drop me a line:</h3>
