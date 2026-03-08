@@ -13,6 +13,7 @@
 
 
 
+
 <!-- Footer Wave (Commented Out)
 <p align="center">
   <img 
@@ -21,6 +22,7 @@
   />
 </p>
 -->
+
 
 
 
@@ -49,8 +51,10 @@
 
 
 
+
 <!-- Greeting -->
 <!-- <h2 align="center">❂ I am Aditya Pratap Singh</h2> -->
+
 
 
 
@@ -61,6 +65,7 @@
   width="400"
   src="https://raw.githubusercontent.com/aditya-inorder/symmetrical-summary/main/Arts/Penguin3.png"
 />
+
 
 
 
@@ -76,7 +81,9 @@
 
 
 
+
 <br clear="left" />
+
 
 
 
@@ -92,7 +99,9 @@
 
 
 
+
 <br>
+
 
 
 
@@ -122,50 +131,49 @@
 
 
 
+
 <!-- Tech Stack -->
 <h3 align="center">💻 Tech Stack</h3>
 <div align="center">
 
+  <!-- Core development -->
+  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
+  <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://gitlab.com/" target="_blank"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"></a>
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
 
+  <br><br>
 
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></a>
-<a href="https://reactnative.dev/" target="_blank"><img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
-<a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"></a>
-<a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a>
-<a href="https://expressjs.com/" target="_blank"><img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white"></a>
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
-<a href="https://www.postman.com/" target="_blank"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a>
-<a href="https://www.prisma.io" target="_blank">
-    <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" /></a>
-<a href="https://supabase.com" target="_blank">
-    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" /></a>
-<a href="https://clerk.com" target="_blank">
-    <img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" /></a>
-<a href="https://numpy.org/" target="_blank">
-  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"></a>
-<a href="https://pandas.pydata.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"></a>
-<a href="https://scipy.org/" target="_blank">
-  <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white"></a>
-<a href="https://scikit-learn.org/" target="_blank">
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"></a>
-<a href="https://plotly.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white"></a>
-<a href="https://keras.io/" target="_blank">
-  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white"></a>
-<a href="https://pytorch.org/" target="_blank">
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white"></a>
-<a href="https://www.anaconda.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"></a>
-<a href="https://jupyter.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white"></a>
-<a href="https://www.tensorflow.org/" target="_blank">
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white"></a>
+  <!-- Security tools -->
+  <a href="https://nmap.org/" target="_blank"><img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logoColor=white" /></a>
+  <a href="https://www.wireshark.org/" target="_blank"><img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"></a>
+  <a href="https://portswigger.net/burp" target="_blank"><img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"></a>
+  <a href="https://www.metasploit.com/" target="_blank"><img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"></a>
+  <a href="https://sqlmap.org/" target="_blank"><img src="https://img.shields.io/badge/SQLmap-CC2927?style=for-the-badge&logoColor=white"></a>
+  <a href="https://www.kali.org/tools/hydra/" target="_blank"><img src="https://img.shields.io/badge/Hydra-0A66C2?style=for-the-badge&logoColor=white"></a>
+  <a href="https://www.kali.org/tools/gobuster/" target="_blank"><img src="https://img.shields.io/badge/Gobuster-444444?style=for-the-badge&logoColor=white"></a>
+  <a href="https://www.openwall.com/john/" target="_blank"><img src="https://img.shields.io/badge/John_The_Ripper-8B0000?style=for-the-badge&logoColor=white"></a>
+  <a href="https://www.kali.org/tools/aircrack-ng/" target="_blank"><img src="https://img.shields.io/badge/Aircrack--ng-1E88E5?style=for-the-badge&logoColor=white"></a>
+  <a href="https://www.zaproxy.org/" target="_blank"><img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logoColor=white"></a>
 
+  <br><br>
 
+  <!-- Platforms and workflow -->
+  <a href="https://tryhackme.com/" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"></a>
+  <a href="https://www.postman.com/" target="_blank"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>
+  <a href="https://ubuntu.com/" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
+  <a href="https://www.kali.org/" target="_blank"><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"></a>
+  <a href="https://www.debian.org/" target="_blank"><img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"></a>
 
 </div>
+
 
 
 
@@ -173,10 +181,12 @@
 
 
 
+
 <!-- Ending -->
 <p align="center">
   Keep working... but don't forget to relax.
 </p>
+
 
 
 
