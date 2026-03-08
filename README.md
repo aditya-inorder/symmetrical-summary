@@ -71,7 +71,7 @@
 
 
 <!-- About Me -->
-<h3 align="left">About Me</h3>
+<h3 align="left">━━ About Me ━━</h3>
 <p>
   ✧ Hi, I am Aditya Pratap Singh from India. I love web development, digital security, and designing.<br><br>
   ✧ Actively developing cybersecurity skills through hands‑on practice and continuous learning.<br><br>
@@ -89,11 +89,11 @@
 
 
 <!-- Languages & Tools -->
-<h3 align="center">📚 Languages & Tools I Have Placed My Hands On</h3>
+<h3 align="center">━━ Languages & Tools ━━</h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ubuntu,kali,burpsuite,metasploit,wireshark,nmap,sqlmap,gitlab,tailwind" /><br>
   <img src="https://skillicons.dev/icons?i=github,git,html,css,javascript,python,mysql,bash,vscode" /><br>
-  <img src="https://skillicons.dev/icons?i=bootstrap,figma,notion,pycharm,debian,c,java,vim,pwsh" /><br>
+  <img src="https://skillicons.dev/icons?i=bootstrap,figma,notion,c,java,vim,pwsh" /><br>
 </div>
 
 
@@ -108,7 +108,7 @@
 
 <!-- Interesting Repositories -->
 <div align="center">
-  <h3>⭐️ Interesting Repositories</h3>
+  <h3>━━ Interesting Repositories ━━</h3>
   <p align="center">
     <a href="https://github.com/aditya-inorder/stalking-penguin">
       <img
@@ -133,10 +133,9 @@
 
 
 <!-- Tech Stack -->
-<h3 align="center">💻 Tech Stack</h3>
+<h3 align="center">━━ Security & Development Stack ━━</h3>
 <div align="center">
 
-  <!-- Core development -->
   <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>
@@ -144,13 +143,13 @@
   <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://gitlab.com/" target="_blank"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"></a>
-  <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
+  <a href="https://www.postman.com/" target="_blank"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>
+  <a href="https://ubuntu.com/" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
 
   <br><br>
 
-  <!-- Security tools -->
+  <a href="https://www.kali.org/" target="_blank"><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"></a>
   <a href="https://nmap.org/" target="_blank"><img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logoColor=white" /></a>
   <a href="https://www.wireshark.org/" target="_blank"><img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"></a>
   <a href="https://portswigger.net/burp" target="_blank"><img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"></a>
@@ -160,17 +159,14 @@
   <a href="https://www.kali.org/tools/gobuster/" target="_blank"><img src="https://img.shields.io/badge/Gobuster-444444?style=for-the-badge&logoColor=white"></a>
   <a href="https://www.openwall.com/john/" target="_blank"><img src="https://img.shields.io/badge/John_The_Ripper-8B0000?style=for-the-badge&logoColor=white"></a>
   <a href="https://www.kali.org/tools/aircrack-ng/" target="_blank"><img src="https://img.shields.io/badge/Aircrack--ng-1E88E5?style=for-the-badge&logoColor=white"></a>
-  <a href="https://www.zaproxy.org/" target="_blank"><img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logoColor=white"></a>
 
   <br><br>
 
-  <!-- Platforms and workflow -->
+  <a href="https://www.zaproxy.org/" target="_blank"><img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logoColor=white"></a>
   <a href="https://tryhackme.com/" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"></a>
-  <a href="https://www.postman.com/" target="_blank"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>
-  <a href="https://ubuntu.com/" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
-  <a href="https://www.kali.org/" target="_blank"><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"></a>
-  <a href="https://www.debian.org/" target="_blank"><img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"></a>
+  <a href="https://portswigger.net/web-security" target="_blank"><img src="https://img.shields.io/badge/Web_App_Security-4B0082?style=for-the-badge&logoColor=white"></a>
+  <a href="https://owasp.org/" target="_blank"><img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"></a>
+  <a href="https://en.wikipedia.org/wiki/Capture_the_flag_(cybersecurity)" target="_blank"><img src="https://img.shields.io/badge/CTF-8A2BE2?style=for-the-badge&logoColor=white"></a>
 
 </div>
 
@@ -184,7 +180,7 @@
 
 <!-- Ending -->
 <p align="center">
-  Keep working... but don't forget to relax.
+  Keep building... but don't forget to take a break.
 </p>
 
 
