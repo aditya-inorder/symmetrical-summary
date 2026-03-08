@@ -12,6 +12,7 @@
 
 
 
+
 <!-- Footer Wave (Commented Out)
 <p align="center">
   <img 
@@ -20,6 +21,7 @@
   />
 </p>
 -->
+
 
 
 
@@ -46,8 +48,10 @@
 
 
 
+
 <!-- Greeting -->
 <!-- <h2 align="center">❂ I am Aditya Pratap Singh</h2> -->
+
 
 
 
@@ -57,6 +61,7 @@
   width="400"
   src="https://raw.githubusercontent.com/aditya-inorder/symmetrical-summary/main/Arts/Penguin3.png"
 />
+
 
 
 
@@ -70,22 +75,25 @@
 </p>
 
 
+
 <br clear="left" />
+
 
 
 
 <!-- Languages & Tools -->
 <h3 align="center">📚 Languages & Tools I Have Placed My Hands On</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,nodejs,mongodb,gitlab,raspberrypi,react,nextjs,tailwind" /><br>
-  <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,notion,figma,pycharm" /><br>
-  <img src="https://skillicons.dev/icons?i=c,bash,kali,arch,ubuntu,python,javascript,mysql,dotnet" /><br>
-  <img src="https://skillicons.dev/icons?i=cpp,cs,vim,java,htmx,debian,neovim,atom,pwsh" /><br>
+  <img src="https://skillicons.dev/icons?i=ubuntu,kali,burpsuite,metasploit,wireshark,nmap,sqlmap,gitlab,tailwind" /><br>
+  <img src="https://skillicons.dev/icons?i=github,git,html,css,javascript,python,mysql,bash,vscode" /><br>
+  <img src="https://skillicons.dev/icons?i=bootstrap,figma,notion,pycharm,debian,c,java,vim,pwsh" /><br>
 </div>
 
 
 
+
 <br>
+
 
 
 
@@ -113,9 +121,11 @@
 
 
 
+
 <!-- Tech Stack -->
 <h3 align="center">💻 Tech Stack</h3>
 <div align="center">
+
 
 
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></a>
@@ -154,16 +164,20 @@
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white"></a>
 
 
+
 </div>
 
 
+
 <br>
+
 
 
 <!-- Ending -->
 <p align="center">
   Keep working... but don't forget to relax.
 </p>
+
 
 
 <a href="https://github.com/aditya-inorder/symmetrical-summary/blob/main/Arts/Adventuretime.gif">
