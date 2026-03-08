@@ -27,17 +27,14 @@
 
 <!-- MasterHead -->
 <picture>
-  <!-- Dark theme: Cyberpunk -->
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/aditya-inorder/symmetrical-summary/main/Arts/Cyberpunk.gif"
   />
-  <!-- Light theme: Day -->
   <source
     media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/aditya-inorder/symmetrical-summary/main/Arts/Day.png"
   />
-  <!-- Fallback / other: Blossom -->
   <img
     width="1000"
     height="500"
@@ -83,10 +80,27 @@
 
 <!-- Languages & Tools -->
 <h3 align="center">📚 Languages & Tools I Have Placed My Hands On</h3>
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ubuntu,kali,burpsuite,metasploit,wireshark,nmap,sqlmap,gitlab,tailwind" /><br>
-  <img src="https://skillicons.dev/icons?i=github,git,html,css,javascript,python,mysql,bash,vscode" /><br>
-  <img src="https://skillicons.dev/icons?i=bootstrap,figma,notion,pycharm,debian,c,java,vim,pwsh" /><br>
+  <img src="https://skillicons.dev/icons?i=ubuntu,kali,python,javascript,mysql,html,css,bootstrap,tailwind" /><br>
+  <img src="https://skillicons.dev/icons?i=vscode,github,git,gitlab,figma,notion,pycharm,debian,bash" /><br>
+  <img src="https://skillicons.dev/icons?i=c,java,vim,pwsh" /><br><br>
+
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLMap-CC2927?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" /><br>
+
+  <img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
+  <img src="https://img.shields.io/badge/Brackets-007ACC?style=for-the-badge&logo=brackets&logoColor=white" />
+  <img src="https://img.shields.io/badge/John%20the%20Ripper-8B0000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gobuster-444444?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/CyberChef-222222?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hydra-0A66C2?style=for-the-badge&logoColor=white" />
 </div>
 
 
@@ -126,8 +140,6 @@
 <h3 align="center">💻 Tech Stack</h3>
 <div align="center">
 
-
-
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></a>
 <a href="https://reactnative.dev/" target="_blank"><img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
 <a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"></a>
@@ -162,8 +174,6 @@
   <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white"></a>
 <a href="https://www.tensorflow.org/" target="_blank">
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white"></a>
-
-
 
 </div>
 
