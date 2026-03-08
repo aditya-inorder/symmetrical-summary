@@ -33,11 +33,13 @@
 <!-- About Me -->
 <h3 align="left">💫 About Me</h3>
 <p>
-  🌱 I am currently working to improve net.<br>
+  🌱 I am currently working on and developing my programming skills.<br>
   🔭 I worked on .NET Framework and have experience in ASP.NET MVC.<br>
-  💬 I am skilled in Python and SQL.<br>
+  💬 Skills I acquire in programming languages such as Python, SQL.<br>
   ⚡ Interest in DS/AI/ML, Automation, Development/Engineering, etc.<br>
 </p>
+
+<br clear="left" />
 
 <h3>🧲 Drop me a line:</h3>
 <div align="center">
