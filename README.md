@@ -183,7 +183,7 @@
 
 <!-- Ending -->
 <p align="center">
-  Keep building... but don't forget to take a break.
+  <strong><code>Keep building... but don't forget to take a break.</code></strong>
 </p>
 
 
