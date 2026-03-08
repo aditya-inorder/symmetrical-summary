@@ -22,26 +22,46 @@
 
 
 <!-- MasterHead -->
-<a href="https://github.com/aditya-inorder/symmetrical-summary/blob/main/Adventuretime.gif">
-  <img width="1000" height="500" src="https://github.com/aditya-inorder/symmetrical-summary/blob/main/Greyscenery.png" alt="Fallout GIF"/>
-</a>
+<picture>
+  <!-- Dark / dim / other themes: Cyberpunk.gif -->
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github.com/aditya-inorder/symmetrical-summary/blob/main/Arts/Cyberpunkk.gif"
+  />
+  <!-- Light theme: Day.png -->
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github.com/aditya-inorder/symmetrical-summary/blob/main/Arts/Day.png"
+  />
+  <!-- Fallback / any other context: Blossom.gif -->
+  <img
+    width="1000"
+    height="500"
+    src="https://github.com/aditya-inorder/symmetrical-summary/blob/main/Arts/Blossom.gif"
+    alt="Profile banner"
+  />
+</picture>
 
 
 <!-- Greeting -->
-<!--<h2 align="center">❂ I am Joshua Thadi</h2>-->
+<!-- <h2 align="center">❂ I am Aditya Pratap Singh</h2> -->
 
 
-
-<img align="left" alt="coding-gif" width="400" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/transparent_gitgif.gif" />
+<img
+  align="left"
+  alt="About illustration"
+  width="400"
+  src="https://github.com/aditya-inorder/symmetrical-summary/blob/main/Arts/Penguin3.png"
+/>
 
 
 <!-- About Me -->
-<h3 align="left">💫 About Me</h3>
+<h3 align="left">About Me</h3>
 <p>
-  🌱 I am currently working on and developing my programming skills.<br>
-  🔭 I worked on .NET Framework and have experience in ASP.NET MVC.<br>
-  💬 Skills I acquire in programming languages such as Python, SQL.<br>
-  ⚡ Interest in DS/AI/ML, Automation, Development/Engineering, etc.<br>
+  • Hi, I am Aditya Pratap Singh from India. I love developing, digital security, and designing.<br>
+  • Actively developing cybersecurity skills through hands‑on practice and continuous learning.<br>
+  • Skilled in programming with Python and SQL, applied to automation and data management.<br>
+  • Interests include Cybersecurity, AI/ML, Automation, and Development/Engineering.<br>
 </p>
 
 <br clear="left" />
@@ -60,22 +80,27 @@
 <br>
 
 
-<!-- Best Repositories -->
+<!-- Interesting Repositories -->
 <div align="center">
   <h3>⭐️ Interesting Repositories</h3>
   <p align="center">
-<a href="https://github.com/JoshuaThadi/Wall-E-Desk">
-  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JoshuaThadi&repo=Wall-E-Desk" /></a>
-<a href="https://github.com/JoshuaThadi/Void-OSE">
-  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JoshuaThadi&repo=Void-OSE" /></a>
-<a href="https://github.com/JoshuaThadi/IDE-Cosmo">
-  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JoshuaThadi&repo=IDE-Cosmo" /></a>
-<a href="https://github.com/JoshuaThadi/Books-Of-Knowledge">
-  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JoshuaThadi&repo=Books-Of-Knowledge" /></a>
-<a href="https://github.com/JoshuaThadi/PixelVault">
-  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JoshuaThadi&repo=PixelVault" /></a>
-<a href="https://github.com/JoshuaThadi/My-Projects">
-  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JoshuaThadi&repo=My-Projects" /></a>
+
+    <a href="https://github.com/aditya-inorder/stalking-penguin">
+      <img
+        width="400"
+        src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aditya-inorder&repo=stalking-penguin"
+        alt="stalking-penguin"
+      />
+    </a>
+
+    <a href="https://github.com/aditya-inorder/CTF-Writeups">
+      <img
+        width="400"
+        src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aditya-inorder&repo=CTF-Writeups"
+        alt="CTF-Writeups"
+      />
+    </a>
+
   </p>
 </div>
 
@@ -84,10 +109,6 @@
 <!-- Tech Stack -->
 <h3 align="center">💻 Tech Stack</h3>
 <div align="center">
-
-
-<!-- Languages -->
-
 
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></a>
 <a href="https://reactnative.dev/" target="_blank"><img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
@@ -106,7 +127,7 @@
 <a href="https://numpy.org/" target="_blank">
   <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"></a>
 <a href="https://pandas.pydata.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"></a>
+  <img src="https://img.shields.io-badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"></a>
 <a href="https://scipy.org/" target="_blank">
   <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white"></a>
 <a href="https://scikit-learn.org/" target="_blank">
@@ -124,16 +145,14 @@
 <a href="https://www.tensorflow.org/" target="_blank">
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white"></a>
 
-
-
 </div>
 
 
-
 <!-- Ending -->
-<a href="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/green.gif">
-  <img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art-2/green.gif" alt="Wall-E GIF" style="width:auto; height:auto" />
+<a href="https://github.com/aditya-inorder/symmetrical-summary/blob/main/Arts/Adventuretime.gif">
+  <img
+    src="https://github.com/aditya-inorder/symmetrical-summary/blob/main/Arts/Adventuretime.gif"
+    alt="Adventure Time GIF"
+    style="width:auto; height:auto"
+  />
 </a>
-
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="1" />
