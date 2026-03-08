@@ -58,9 +58,9 @@
 <!-- About Me -->
 <h3 align="left">About Me</h3>
 <p>
-  ✧ Hi, I am Aditya Pratap Singh from India. I love developing, digital security, and designing.<br><br>
-  ✧ Actively developing cybersecurity skills through hands‑on practice and continuous learning.<br><br>
-  ✧ Skilled in programming with Python and SQL, applied to automation and data management.<br><br>
+  ✧ Hi, I am Aditya Pratap Singh from India. I love developing, digital security, and designing.<br>
+  ✧ Actively developing cybersecurity skills through hands‑on practice and continuous learning.<br>
+  ✧ Skilled in programming with Python and SQL, applied to automation and data management.<br>
   ✧ Interests include Cybersecurity, AI/ML, Automation, and Development/Engineering.<br>
 </p>
 
