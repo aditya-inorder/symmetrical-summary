@@ -68,6 +68,7 @@
   alt="About illustration"
   width="400"
   src="https://raw.githubusercontent.com/aditya-inorder/symmetrical-summary/main/Arts/Penguin3.png"
+  style="margin-top: 12px;"
 />
 
 
@@ -183,7 +184,7 @@
 
 <!-- Ending -->
 <p align="center">
-  <strong><code>Keep building... but don't forget to take a break.</code></strong>
+  <code>Keep building... but don't forget to take a break.</code>
 </p>
 
 
