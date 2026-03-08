@@ -15,6 +15,7 @@
 
 
 
+
 <!-- Footer Wave (Commented Out)
 <p align="center">
   <img 
@@ -23,6 +24,7 @@
   />
 </p>
 -->
+
 
 
 
@@ -47,8 +49,11 @@
     height="500"
     src="https://raw.githubusercontent.com/aditya-inorder/symmetrical-summary/main/Arts/Blossom.gif"
     alt="Profile banner"
+    style="border-radius: 18px;"
   />
 </picture>
+
+<p align="center"><code>root@aditya:~$ whoami</code></p>
 
 
 
@@ -63,12 +68,13 @@
 
 
 
+<br>
+
 <img
   align="left"
   alt="About illustration"
   width="400"
   src="https://raw.githubusercontent.com/aditya-inorder/symmetrical-summary/main/Arts/Penguin3.png"
-  style="margin-top: 12px;"
 />
 
 
@@ -89,7 +95,9 @@
 
 
 
+
 <br clear="left" />
+
 
 
 
@@ -109,7 +117,9 @@
 
 
 
+
 <br>
+
 
 
 
@@ -136,6 +146,7 @@
     </a>
   </p>
 </div>
+
 
 
 
@@ -176,7 +187,9 @@
 
 
 
+
 <br>
+
 
 
 
@@ -186,6 +199,7 @@
 <p align="center">
   <code>Keep building... but don't forget to take a break.</code>
 </p>
+
 
 
 
